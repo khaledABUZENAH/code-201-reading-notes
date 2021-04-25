@@ -62,10 +62,10 @@ the page.
 
 ### changes to content 
 
-* The **<ins>** element can be used to show content that has been inserted into a document, while the <del> element can show text that has been deleted from it.
+* The **ins** element can be used to show content that has been inserted into a document, while the **del** element can show text that has been deleted from it.
 ![insdel](https://static.javatpoint.com/htmlpages/images/html-ins-tag.png)
 
-* The **<s>** element indicates something that is no longer accurate or relevant (but that should not be deleted).
+* The **s** element indicates something that is no longer accurate or relevant (but that should not be deleted).
 
 ## Introducing CSS
 
