@@ -9,8 +9,8 @@
 | class02   | [link](https://khaledabuzenah.github.io/code-201-reading-notes/class02)        |
 | read03   | [link](https://khaledabuzenah.github.io/code-201-reading-notes/read03)        |
 | read04   | [link](https://khaledabuzenah.github.io/code-201-reading-notes/read04)        |
-| read0   | [link]()        |
-| read0  | [link]()        |
+| read05   | [link](https://khaledabuzenah.github.io/code-201-reading-notes/read05)        |
+| read06  | [link](https://khaledabuzenah.github.io/code-201-reading-notes/read06)        |
 | read0  | [link]()       |
 | read0  | [link]()        |
 
