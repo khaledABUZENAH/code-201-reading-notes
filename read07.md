@@ -23,23 +23,23 @@ There are several types of information that need to be displayed in a grid or ta
 
 ### Basic Table Structure
 
-* The <table> element is used to create a table. The contents of the table are written out row by row.
-* The <table> element is used to create a table. The contents of the table are written out row by row.
-* Each cell of a table is represented using a <td> element. (The td stands for table data.) At the end of each cell you use a closing </td> tag.
+* The **table** element is used to create a table. The contents of the table are written out row by row.
+* The **table** element is used to create a table. The contents of the table are written out row by row.
+* Each cell of a table is represented using a **td** element. (The td stands for table data.) At the end of each cell you use a closing **td** tag.
 
 ### Table headings 
 
-The <th> element is used just like the <td> element but its purpose is to represent the heading for either a column or a row. (The th stands for table heading.) Even if a cell has no content, you should still use a <td> or <th> element to representb the presence of an empty cell otherwise the table will not render correctly.
+The **th** element is used just like the **td** element but its purpose is to represent the heading for either a column or a row. (The th stands for table heading.) Even if a cell has no content, you should still use a **td** or **th** element to representb the presence of an empty cell otherwise the table will not render correctly.
 
 ### Spanning columns
 
-Sometimes you may need the entries in a table to stretch across more than one column. The colspan attribute can be used on a <th> or <td> element and indicates how many columns that cell should run across.
+Sometimes you may need the entries in a table to stretch across more than one column. The colspan attribute can be used on a **th** or **td** element and indicates how many columns that cell should run across.
 
 Colspan="n of columns that u want it to strech in"
 
 ### Spanning Rows
 
-You may also need entries in a table to stretch down across more than one row. The rowspan attribute can be used on a <th> or <td> element to indicate how many rows a cell should span down the table.
+You may also need entries in a table to stretch down across more than one row. The rowspan attribute can be used on a **th** or **td** element to indicate how many rows a cell should span down the table.
 
 Rowspan="n of rows that u want it to strech in"
 
@@ -47,6 +47,6 @@ Rowspan="n of rows that u want it to strech in"
 
 There are three elements that help distinguish between the main content of the table and the first and last rows
 
-* The headings of the table should sit inside the <thead> element.
-* The body should sit inside the <tbody> element.
-*  The footer belongs inside the <tfoot> element.
+* The headings of the table should sit inside the **thead** element.
+* The body should sit inside the **tbody** element.
+*  The footer belongs inside the **tfoot** element.
